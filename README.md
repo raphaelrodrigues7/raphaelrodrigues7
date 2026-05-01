@@ -1,7 +1,7 @@
 # olá sou o Raphael 👋
 
 **💻 estudando programação no sonho meu**  
-- aprendi design e seus principios
+- aprendi design e seus principios<
 - faço informática básica
 - toco bateria
  
@@ -18,4 +18,5 @@ raphaelrodrigues0@gmai.com
 **🧰 Current stack**  
 <div>  
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
-</div>
+</div> <img src="https://br.pinterest.com/pin/745979125765866504/"/>
+
